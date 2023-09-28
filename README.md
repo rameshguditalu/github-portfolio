@@ -38,7 +38,7 @@
   <h2>Certifications and Achievements</h2>
   Microsoft Certified Azure Fundamentals:AZ-900<br>
   TypeScript Complete Course - Beginner To Advanced - Udemy<br>
-  Solved 150+ problems on LeetCode <a href="https://www.leetcode.com/leetcode136672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode136672" height="20" width="20" /></a> <br>
+  Solved 150+ problems on LeetCode <a href="https://www.leetcode.com/leetcode136672" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode136672" height="20" width="20" /></a> <br>
   Won an Insta Award for excellence work at Infosys<br>
 </div>
 
